@@ -529,7 +529,7 @@
     }
   ],
   "thresholds": {
-    "legitimate": 90,
+    "legitimate": 86,
     "suspicious": 55,
     "phishing": 25
   },

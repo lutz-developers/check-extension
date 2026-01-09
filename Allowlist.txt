@@ -1,2 +1,3 @@
 https://*ciamlogin.com
 https://*.lutz.us
+https://ltech.screenconnect.com
